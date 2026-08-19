@@ -37,3 +37,20 @@ Open Command Prompt in the project folder and run:
 
 ```bash
 py quiz_game.py
+## 🎮 Example
+
+```text
+===== Python Quiz Game =====
+Enter your name: Mubashir
+Good luck, Mubashir!
+
+What language are we learning?
+A) Python
+B) Java
+C) C++
+D) HTML
+
+Correct! ✅
+
+===== Quiz Finished =====
+Your score: 3 / 3
