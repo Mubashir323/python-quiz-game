@@ -37,6 +37,8 @@ Open Command Prompt in the project folder and run:
 
 ```bash
 py quiz_game.py
+```
+
 ## 🎮 Example
 
 ```text
@@ -54,3 +56,16 @@ Correct! ✅
 
 ===== Quiz Finished =====
 Your score: 3 / 3
+```
+
+## 🚀 Future Improvements
+
+- Add more questions
+- Randomize questions
+- Add difficulty levels
+- Add a percentage score
+- Add a high-score system
+
+## 👨‍💻 Author
+
+Mubashir
